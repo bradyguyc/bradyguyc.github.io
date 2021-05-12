@@ -33,7 +33,7 @@ menu_settings:
   menu_items:
     - title: 'Home'
       submenu_items:
-      - title: Landing Page
+      - title: The Journey
         url: /
         icon: ni-spaceship text-success    
       - title: Blog
