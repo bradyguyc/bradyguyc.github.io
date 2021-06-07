@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /assets/img/faces/Stairs-Chambers-67.jpg
-  mobile_logo_image: /assets/img/faces/Stairs-Chambers-67.jpg
+  mobile_logo_image: /assets/img/faces/BradyHeader.jpg
   # Choose a color for your header [blue, dark, light].
   theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
