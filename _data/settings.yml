@@ -40,9 +40,7 @@ menu_settings:
         url: /blog
         icon: ni-books text-primary
     - title: 'Features'
-      url: '/features'     
-    - title: Pricing
-      url: /pricing        
+      url: '/features'           
     - title: 'Blog'
       submenu_items:
       - title: Blog
@@ -59,11 +57,10 @@ menu_settings:
         icon: ni-bullet-list-67 text-default    
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
-      url: '/contact'
+
 
 footer_settings:
-  footer_tagline: Brady Chambers, Journaling through life.
+  footer_tagline: Brady Chambers, Attempt at Journaling through life.
 
 contact_settings:
   form_action: 'https://formspree.io/hello@jekyllthemes.io'
