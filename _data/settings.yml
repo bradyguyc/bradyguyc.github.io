@@ -3,8 +3,8 @@ basic_settings:
   favicon_image: /assets/img/favicon.png
 
 header_settings:
-  logo_image: /assets/img/faces/BradyHeader.jpg
-  mobile_logo_image: /assets/img/faces/BradyHeader.jpg
+  logo_image: /assets/img/faces/BradyHeader.png
+  mobile_logo_image: /assets/img/faces/BradyHeader.png
   # Choose a color for your header [blue, dark, light].
   theme: dark
   # If the page has a featured image, it turns transparent if allow_transparent is set to "yes".
