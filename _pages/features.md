@@ -1,8 +1,8 @@
 ---
-title: Features
-subtitle: Everything you need to show off your product features.
+title: My Next Book 
+subtitle: Features
 description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
-featured_image: /assets/img/sections/unsplashs.jpg
+featured_image: /assets/img/dreamstimemaximum_58016162_features.jpg
 ---
 
 --- 

@@ -39,7 +39,7 @@ menu_settings:
       - title: Blog
         url: /blog
         icon: ni-books text-primary
-    - title: 'Features'
+    - title: 'My Next Book'
       url: '/features'           
     - title: 'Blog'
       submenu_items:
