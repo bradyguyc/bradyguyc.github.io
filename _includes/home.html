@@ -19,7 +19,8 @@
     </div>
 </header>
 <div class="row">
-    {% include homebackground.md | markdownify %}
+    {% capture my_include %}{% include homebackground.md %}{% end capture %}
+    {{ my_include | markdownify }}
 </div>
 <div class="section features-6">
     <div class="container">
