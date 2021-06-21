@@ -21,7 +21,7 @@
 <div class="row">
     {% include components/blog/homebackground.html %}
     <p class="lead mt-0 "> Test between</p>
-    {% capture my_include %}{% include components/blog/homebackground.html.md %}{% endcapture %}
+    {% capture my_include %}{% include components/blog/homebackground.md %}{% endcapture %}
     {{ my_include | markdownify }}
 
 </div>
