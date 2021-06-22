@@ -26,8 +26,8 @@
     <p class="lead mt-0"> Test between 2</p>
 </div>
 <div class="row">
-    {% capture my_include %}{% include components/blog/homebackground.md %}{% end capture %}
-    {% my_include | markdownify %}
+    {% capture a_include %}{% include components/blog/homebackground.md %}{% end capture %}
+    {{ a_include | markdownify }}
 </div>
 <div class="section features-6">
     <div class="container">
