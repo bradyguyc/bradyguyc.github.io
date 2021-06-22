@@ -19,8 +19,9 @@
     </div>
 </header>
 <div class="row">
-    {% include components/blog/homebackground.html %}
-    </div>
+    {% capture my_include %}{% include components/blog/homebackground.md %}{% end capture %}
+    {{ my_include | markdownify }}
+</div>
 <div class="row">
     <p class="lead mt-0 "> Test between</p>
 </div>
