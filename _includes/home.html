@@ -18,14 +18,8 @@
         </div>
     </div>
 </header>
-<div class="row">
-    {% include components/blog/homebackground.html %}
-    
-</div>
-<div class="row">
-    <p class="lead mt-0"> Test between 8</p>
-</div>
-<div>
+
+<div class"row">
     {% capture p1 %}{% include components/blog/homebackground.md %}{% endcapture %}
     {{ p1 | markdownify }}
 </div>
