@@ -6,26 +6,14 @@ featured_image: /assets/img/dreamstimemaximum_136730926.jpg
 ---
 
 --- 
-#### Big Picture Architecture
+#### Key Components of the solution
+
+Azure, Visual Studio, and Xamarin are the primary 
 
 {% include bigpicture.html %}
 
----
-```components/pricing/pricing-2.html ```
-{% include components/pricing/pricing-2.html %}
 
----
-```components/pricing/pricing-3.html ```
-{% include components/pricing/pricing-3.html %}
-
----
-```components/pricing/pricing-4.html ```
-{% include components/pricing/pricing-4.html %}
-
----
-```components/pricing/pricing-5.html ```
-{% include components/pricing/pricing-5.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjIyMjA0MywtMTA1MzU2NDQ0MiwtMT
-g1ODEwODA0MiwtMTE5OTMzMjQzNV19
+eyJoaXN0b3J5IjpbLTI1ODgwOTQyNywyMTIyMjIyMDQzLC0xMD
+UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
 -->
