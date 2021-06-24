@@ -18,9 +18,11 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 4. Microsoft's App Center - for automated build pipelines.
 5. LetsView - is a free windows app that allows you to screen mirror both iOS and Android devices which makes it a lot easier to compare the rendering of the app side by side and at a larger scale.  It also makes it easier to take snapshots of the app for documentation etc.
 6. VNC Viewer - is a remote desktop viewer that I use to remote into my Mac so that I don't have to use a screen/keyboard switch to flip over to that environment.  I have also noticed that if I keep a VNC viewer session open the connection between Visual Studio and my mac is more stable.
-7. 
+7. Microsoft App Center - integrated sdk's into the mobile app allow for crash reporting 
+8. Microsoft App Center Analytics - integrated sdk's into the mobile app allow for event monitoring and tracking.
+9. Microsoft App Center 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDAwODI0MSwyMTIyMjIyMDQzLC0xMD
+eyJoaXN0b3J5IjpbMTc0ODQ3MjcxOSwyMTIyMjIyMDQzLC0xMD
 UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
 -->
