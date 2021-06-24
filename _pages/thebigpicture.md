@@ -2,7 +2,7 @@
 title: The Big Picture
 subtitle: Technology and Architecture
 description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
-featured_image: /assets/img/pages/nathan-dumlao.jpg
+featured_image: /assets/img/dreamstimemaximum_136730926.jpg
 ---
 
 --- 
@@ -26,6 +26,6 @@ featured_image: /assets/img/pages/nathan-dumlao.jpg
 ```components/pricing/pricing-5.html ```
 {% include components/pricing/pricing-5.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM1NjQ0NDIsLTE4NTgxMDgwNDIsLT
-ExOTkzMzI0MzVdfQ==
+eyJoaXN0b3J5IjpbMjEyMjIyMjA0MywtMTA1MzU2NDQ0MiwtMT
+g1ODEwODA0MiwtMTE5OTMzMjQzNV19
 -->
