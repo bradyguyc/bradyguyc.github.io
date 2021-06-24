@@ -20,9 +20,12 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 6. VNC Viewer - is a remote desktop viewer that I use to remote into my Mac so that I don't have to use a screen/keyboard switch to flip over to that environment.  I have also noticed that if I keep a VNC viewer session open the connection between Visual Studio and my mac is more stable.
 7. Microsoft App Center - integrated sdk's into the mobile app allow for crash reporting 
 8. Microsoft App Center Analytics - integrated sdk's into the mobile app allow for event monitoring and tracking.
-9. Microsoft App Center 
+9. Microsoft App Center Push - integrated sdk's for sending notifications to mobile devices.
+10.Azure B2C Active Directory - for user authentication.
+11. Azure functions - for backend processing.
+12.  Azure 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQ3MjcxOSwyMTIyMjIyMDQzLC0xMD
+eyJoaXN0b3J5IjpbLTg2MTg3MDQ2MCwyMTIyMjIyMDQzLC0xMD
 UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
 -->
