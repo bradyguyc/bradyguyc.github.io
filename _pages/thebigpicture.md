@@ -1,6 +1,6 @@
 ---
 title: The Big Picture
-subtitle: Lots of different ways to show your product pricing.
+subtitle: Technology and Architecture
 description: Use the Argon Jekyll theme to build a landing page, blog or complete website.
 featured_image: /assets/img/pages/nathan-dumlao.jpg
 ---
@@ -33,5 +33,6 @@ This template can be edited and changed in _pages/pricing.md.
 ```components/pricing/pricing-5.html ```
 {% include components/pricing/pricing-5.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Nzg5MTAzNiwtMTE5OTMzMjQzNV19
+eyJoaXN0b3J5IjpbLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ
+==
 -->
