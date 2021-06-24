@@ -6,15 +6,8 @@ featured_image: /assets/img/pages/nathan-dumlao.jpg
 ---
 
 --- 
-#### Getting Started
-You'll find some helpful samples on this page of what is possible with this theme below. 
+#### Big Picture Architecture
 
-Any component or section present in the [Argon Pro docs](https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/getting-started/overview.html) can be used.
-
-This template can be edited and changed in _pages/pricing.md.
-
----
-```components/pricing/pricing-1.html ```
 {% include bigpicture.html %}
 
 ---
@@ -33,6 +26,6 @@ This template can be edited and changed in _pages/pricing.md.
 ```components/pricing/pricing-5.html ```
 {% include components/pricing/pricing-5.html %}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ
-==
+eyJoaXN0b3J5IjpbLTEwNTM1NjQ0NDIsLTE4NTgxMDgwNDIsLT
+ExOTkzMzI0MzVdfQ==
 -->
