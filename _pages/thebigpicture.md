@@ -12,10 +12,12 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 
 {% include bigpicture.html %}
 
-1. Visual Studio 2019 Preview Community Edition is the IDE utilizing c#.
-2. Xamarin Forms is the framework for a multi mobile platform single code base.  I have attempted to utilize the core of Xamarin and not look to many add one
+1. Visual Studio 2019 Preview Community Edition - is the IDE utilizing c#.
+2. Xamarin Forms - is the framework for a multi mobile platform single code base.  I have attempted to utilize the core of Xamarin and not look to many add on's in particular commercial addon's.
+3. GitHub - is the code repository and I am hosting this site/blog on github pages utilizing Jekyll.
+4. Microsoft's App Center 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5Nzc0NTcyLDIxMjIyMjIwNDMsLTEwNT
-M1NjQ0NDIsLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTI2ODA0MTAsMjEyMjIyMjA0MywtMT
+A1MzU2NDQ0MiwtMTg1ODEwODA0MiwtMTE5OTMzMjQzNV19
 -->
