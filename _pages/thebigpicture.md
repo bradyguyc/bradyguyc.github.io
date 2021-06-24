@@ -17,9 +17,10 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 3. GitHub - is the code repository and I am hosting this site/blog on github pages utilizing Jekyll.
 4. Microsoft's App Center - for automated build pipelines.
 5. LetsView - is a free windows app that allows you to screen mirror both iOS and Android devices which makes it a lot easier to compare the rendering of the app side by side and at a larger scale.  It also makes it easier to take snapshots of the app for documentation etc.
-6. VNC Viewe
+6. VNC Viewer - is a remote desktop viewer that I use to remote into my Mac so that I don't have to use a screen/keyboard switch to flip over to that environment.  I have also noticed that if I keep a VNC viewer session open the connection between Visual Studio and my mac is more stable.
+7. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjEzNDk2NzQsMjEyMjIyMjA0MywtMT
-A1MzU2NDQ0MiwtMTg1ODEwODA0MiwtMTE5OTMzMjQzNV19
+eyJoaXN0b3J5IjpbMTczMDAwODI0MSwyMTIyMjIyMDQzLC0xMD
+UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
 -->
