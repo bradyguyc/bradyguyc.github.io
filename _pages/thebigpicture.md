@@ -15,7 +15,7 @@ This template can be edited and changed in _pages/pricing.md.
 
 ---
 ```components/pricing/pricing-1.html ```
-{% include components/pricing/pricing-1.html %}
+{% include bigpicture.html %}
 
 ---
 ```components/pricing/pricing-2.html ```
@@ -32,3 +32,6 @@ This template can be edited and changed in _pages/pricing.md.
 ---
 ```components/pricing/pricing-5.html ```
 {% include components/pricing/pricing-5.html %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTkzMzI0MzVdfQ==
+-->
