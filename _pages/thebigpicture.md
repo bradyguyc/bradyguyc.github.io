@@ -8,7 +8,7 @@ featured_image: /assets/img/dreamstimemaximum_136730926.jpg
 --- 
 ## Key Components of the solution
 
-Azure, Visual Studio, and Xamarin are the primary technologies utilized in the solution.  While not comprehensive these technologies are at the core with Xamarin Forms being the core of the solution for mobile development with it's single code multi device deployment a driving feature for it's selection.
+Azure, Visual Studio, and Xamarin are the primary technologies utilized in the solution.  While not comprehensive these technologies are at the core with Xamarin Forms being the key component of the solution for mobile development with it's single code multi device deployment a driving feature for it's selection.
 
 {% include bigpicture.html %}
 
@@ -29,6 +29,6 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 14. Google Books API for retrieving a massive set of details on a particular book.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzNzgyMDI5LDIxMjIyMjIwNDMsLTEwNT
-M1NjQ0NDIsLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxNDM3MjU1MjAsMjEyMjIyMjA0MywtMT
+A1MzU2NDQ0MiwtMTg1ODEwODA0MiwtMTE5OTMzMjQzNV19
 -->
