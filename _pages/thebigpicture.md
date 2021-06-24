@@ -21,11 +21,13 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 7. Microsoft App Center - integrated sdk's into the mobile app allow for crash reporting 
 8. Microsoft App Center Analytics - integrated sdk's into the mobile app allow for event monitoring and tracking.
 9. Microsoft App Center Push - integrated sdk's for sending notifications to mobile devices.
-10.Azure B2C Active Directory - for user authentication.
+10. Azure B2C Active Directory - for user authentication.
 11. Azure functions - for backend processing.
-12.  Azure 
+12.  Azure CosmosDB is the primary data store that is synced with the mobile device.
+13. DBPedia - a knowledge graph of all things wikkapedia.  This is some really cool stuff and is utilized to find book series and books in a series.
+14. Google Books API for retrieving a massive set of details 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTg3MDQ2MCwyMTIyMjIyMDQzLC0xMD
-UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
+eyJoaXN0b3J5IjpbNTA2NjEyNDM5LDIxMjIyMjIwNDMsLTEwNT
+M1NjQ0NDIsLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ==
 -->
