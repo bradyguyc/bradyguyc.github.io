@@ -12,6 +12,7 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 
 {% include bigpicture.html %}
 
+
 1. Visual Studio 2019 Preview Community Edition - is the IDE utilizing c#.
 2. Xamarin Forms - is the framework for a multi mobile platform single code base.  I have attempted to utilize the core of Xamarin and not look to many add on's in particular commercial addon's.
 3. GitHub - is the code repository and I am hosting this site/blog on github pages utilizing Jekyll.
@@ -28,6 +29,6 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 14. Google Books API for retrieving a massive set of details on a particular book.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzc3MjM4NSwyMTIyMjIyMDQzLC0xMD
-UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
+eyJoaXN0b3J5IjpbOTMzNzgyMDI5LDIxMjIyMjIwNDMsLTEwNT
+M1NjQ0NDIsLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ==
 -->
