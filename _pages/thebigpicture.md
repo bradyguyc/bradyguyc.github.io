@@ -25,9 +25,9 @@ Azure, Visual Studio, and Xamarin are the primary technologies utilized in the s
 11. Azure functions - for backend processing.
 12.  Azure CosmosDB is the primary data store that is synced with the mobile device.
 13. DBPedia - a knowledge graph of all things wikkapedia.  This is some really cool stuff and is utilized to find book series and books in a series.
-14. Google Books API for retrieving a massive set of details 
+14. Google Books API for retrieving a massive set of details on a particular book.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2NjEyNDM5LDIxMjIyMjIwNDMsLTEwNT
-M1NjQ0NDIsLTE4NTgxMDgwNDIsLTExOTkzMzI0MzVdfQ==
+eyJoaXN0b3J5IjpbLTg0Nzc3MjM4NSwyMTIyMjIyMDQzLC0xMD
+UzNTY0NDQyLC0xODU4MTA4MDQyLC0xMTk5MzMyNDM1XX0=
 -->
